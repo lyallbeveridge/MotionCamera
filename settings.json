@@ -1,0 +1,11 @@
+{
+    "welcome_msg" : "JSON settings loaded!",
+    "n_snaps": 2,
+    "min_snap_interval" : 20,
+    "operation_hours" : {
+    	"start_hour" : 17,
+    	"start_min" : 30,
+    	"end_hour" : 6,
+    	"end_min" : 30
+    }
+}
